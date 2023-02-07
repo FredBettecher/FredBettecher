@@ -2,12 +2,12 @@
 ### I'm currently studying to become a full stack developer and start a career in the technology market
 - 🔭 I’m currently working on improving my back-end skills
 - 🌱 I’m currently learning postgreSQL
-- 👯 I’m looking to collaborate on any open source project, to gain XP and stop being such a noob
+- 👯 I’m looking to collaborate on any open source project to gain XP and stop being a noob
 - ⚡ Fun fact: I'm not funny at all 🤨
 
 ##
 
-### 📧 Contact me
+### 📧 How to contact me
 <div>
   <a href = "mailto:fredbettecher@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://discordapp.com/users/414539277309968396" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -34,11 +34,11 @@
 ### 📊 My stats
 <div style="display: inline_block" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=200" alt="Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=150" alt="Languages" />
   </a>
 </div>
 
