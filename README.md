@@ -1,10 +1,10 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi there! I'm Fred
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-fredbettecher.vercel.app/api/pin/?username=FredBettecher&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-fyzc2swu5-fredbettecher.vercel.app/api/pin/?username=FredBettecher&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-fredbettecher.vercel.app/api/pin/?username=FredBettecher&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-fyzc2swu5-fredbettecher.vercel.app/api/pin/?username=FredBettecher&repo=convoychat" />
 </a>
 
 <div style="display: inline_block"><br>
