@@ -1,4 +1,5 @@
-## Hey there! My name is Fred and I'm currently studying to become a full stack developer.
+## Hey there! 😃
+### My name is Fred and I'm currently studying to become a full stack developer.
 - 🔭 I’m currently working on improving my back-end skills
 - 🌱 I’m currently learning postgreSQL
 - 👯 I’m looking to collaborate on any open source project, to gain XP and stop being such a noob
@@ -37,7 +38,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent" alt="Languages" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=250" alt="Languages" />
   </a>
 </div>
 
