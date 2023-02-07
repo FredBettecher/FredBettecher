@@ -1,4 +1,10 @@
-## Hey there! My name is Fred and currently I'm studying to become a full stack developer.
+## Hey there! My name is Fred and I'm currently studying to become a full stack developer.
+- 🔭 I’m currently working on improving my back-end skills
+- 🌱 I’m currently learning postgreSQL
+- 👯 I’m looking to collaborate on any open source project, to gain XP and stop being such a noob
+- ⚡ Fun fact: I'm not funny at all 🤨
+
+##
 
 ### 📧 Contact me
 <div>
@@ -9,7 +15,7 @@
 
   ##
 
-### 💻 Technologies and tools
+### 💻 Technologies and tools 🛠
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-HTML" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Fred-CSS" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -19,11 +25,20 @@
   <img align="center" alt="Fred-Mongo" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Fred-VSCode" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Fred-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Fred-GitHub" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
 
   ##
+
+### 📊 My stats
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" width:"350px" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
+  </a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredBettecher&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent" alt="Languages" />
+  </a>
+</div>
 
 ![Snake animation](https://github.com/FredBettecher/FredBettecher/blob/output/github-contribution-grid-snake.svg)
