@@ -34,7 +34,7 @@
 ### 📊 My stats
 <div style="display: inline_block" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" width:"200px" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
