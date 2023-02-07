@@ -34,11 +34,11 @@
 ### 📊 My stats
 <div style="display: inline_block" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" width="150" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=150" alt="Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=250" alt="Languages" />
   </a>
 </div>
 
