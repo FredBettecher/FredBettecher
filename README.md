@@ -2,8 +2,6 @@
 ### I'm currently studying to become a full stack developer and start a career in the technology market
 - 🔭 I’m currently working on improving my back-end skills
 - 🌱 I’m currently learning postgreSQL
-- 👯 I’m looking to collaborate on any open source project to gain XP and stop being a noob
-- ⚡ Fun fact: I'm not funny at all 🤨
 
 ##
 
