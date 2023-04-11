@@ -1,7 +1,7 @@
 ## Hey there! Welcome to my GitHub profile. 😃
 ### I'm currently studying to become a full stack developer and start a career in the technology market
 - 🔭 I’m currently working on improving my back-end skills
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Prisma
 
 ##
 
