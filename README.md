@@ -33,7 +33,7 @@
   ##
  
 ### 🔎 Keywords
-#### HTML | CSS | JavaScript | TypeScript | Node.js | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
+#### HTML | CSS | JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
   ##
 
 ### 📊 My stats
