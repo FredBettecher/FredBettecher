@@ -31,6 +31,10 @@
 </div>
 
   ##
+ 
+### 🔎 Keywords
+#### HTML | CSS | JavaScript | TypeScript | Node.js | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
+  ##
 
 ### 📊 My stats
 <div style="display: inline_block" align="center">
