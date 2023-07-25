@@ -23,6 +23,7 @@
   <img align="center" alt="Fred-Ts" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Fred-React" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Fred-Node" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Fred-Nest" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
   <img align="center" alt="Fred-Mongo" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Fred-Postgre" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Fred-Jest" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
@@ -34,7 +35,7 @@
   ##
  
 ### 🔎 Keywords
-#### HTML | CSS | JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
+#### HTML | CSS | JavaScript | TypeScript | React | Node.js | NestJS | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
   ##
 
 ### 📊 My stats
