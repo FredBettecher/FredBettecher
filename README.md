@@ -48,5 +48,3 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=250" alt="Languages" />
   </a>
 </div>
-
-![Snake animation](https://github.com/FredBettecher/FredBettecher/blob/output/github-contribution-grid-snake.svg)
