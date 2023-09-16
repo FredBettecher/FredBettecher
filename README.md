@@ -16,35 +16,136 @@
   ##
 
 ### 💻 Technologies and tools 🛠
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fred-HTML" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Fred-CSS" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Fred-Js" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Fred-Ts" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Fred-React" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Fred-Node" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Fred-Nest" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
-  <img align="center" alt="Fred-Mongo" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Fred-Postgre" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Fred-Jest" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Fred-VSCode" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Fred-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Fred-GitHub" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-</div>
+<table align=center>
+  <tbody>
+    <tr align=center>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=100>
+        <br>
+        HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=100>
+        <br>
+        CSS
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=100>
+        <br>
+        JavaScript
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=100>
+        <br>
+        TypeScript
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=100>
+        <br>
+        Java
+      </td>
+    </tr>
+    <tr align=center>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=100>
+        <br>
+        React
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=100>
+        <br>
+        Next.js
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=100>
+        <br>
+        Tailwind
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/61329467/127694718-98bdf942-b309-4a7a-a778-7af960a5c5ff.png" width=100>
+        <br>
+        Styled-Components
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=100>
+        <br>
+        Node.js
+      </td>
+    </tr>
+    <tr align=center>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=100>
+        <br>
+        Express
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width=100>
+        <br>
+        Nest
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=100>
+        <br>
+        PostgreSQL
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=100>
+        <br>
+        MongoDB
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width=100>
+        <br>
+        Redis
+      </td>
+    </tr>
+    <tr align=center>
+      <td>
+        <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width=100>
+        <br>
+        Prisma
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width=100>
+        <br>
+        Jest
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=100>
+        <br>
+        AWS
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=100>
+        <br>
+        Docker
+      </td>
+       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=100>
+        <br>
+        Git
+      </td>
+    </tr>
+    <tr align=center>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=100>
+        <br>
+        GitHub
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=100>
+        <br>
+        VS Code
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  ##
- 
-### 🔎 Keywords
-#### HTML | CSS | JavaScript | TypeScript | React | Node.js | NestJS | MongoDB | PostgreSQL | Jest | VSCode | Git | GitHub
   ##
 
 ### 📊 My stats
 <div style="display: inline_block" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FredBettecher&show_icons=true&count_private=true&theme=transparent" alt="Github Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=250" alt="Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=500" alt="Languages" />
   </a>
 </div>
