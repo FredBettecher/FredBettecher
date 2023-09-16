@@ -1,8 +1,8 @@
 ## Hey there! Welcome to my GitHub profile. 😃
-### I'm currently studying to become a full stack developer and start a career in the technology market
+### I'm a full stack developer and an electrical engeneering student 👨🏽‍💻⚙⚡
 - 🔭 I’m currently working on my full stack skills
-- 🌱 I'm currently improving my Typescript abilities
-- 📚 I’m currently learning Nest and OOP with TypeScript
+- 🌱 I'm currently improving my OOP abilities
+- 📚 I’m currently learning Java and Spring
 
 ##
 
