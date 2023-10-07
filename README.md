@@ -40,9 +40,9 @@
         TypeScript
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=100>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=100>
         <br>
-        Java
+        C#
       </td>
     </tr>
     <tr align=center>
