@@ -1,8 +1,6 @@
 ## Hey there! Welcome to my GitHub profile. 😃
-### I'm a full stack developer and an electrical engeneering student 👨🏽‍💻⚙⚡
-- 🔭 I’m currently working on my full stack skills
-- 🌱 I'm currently improving my OOP abilities
-- 📚 I’m currently learning Java and Spring
+### I'm a full stack developer 👨🏽‍💻
+- 💼 I’m currently working at Sinapse Informática
 
 ##
 
@@ -35,14 +33,14 @@
         JavaScript
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=100>
-        <br>
-        TypeScript
-      </td>
-      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=100>
         <br>
         C#
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=100>
+        <br>
+        TypeScript
       </td>
     </tr>
     <tr align=center>
@@ -62,9 +60,9 @@
         Tailwind
       </td>
       <td>
-        <img src="https://user-images.githubusercontent.com/61329467/127694718-98bdf942-b309-4a7a-a778-7af960a5c5ff.png" width=100>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width=100>
         <br>
-        Styled-Components
+        jQuery
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=100>
@@ -74,14 +72,14 @@
     </tr>
     <tr align=center>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=100>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=100>
         <br>
-        Express
+        .NET Core
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width=100>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width=100>
         <br>
-        Nest
+        .NET Framework
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=100>
@@ -94,43 +92,26 @@
         MongoDB
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width=100>
-        <br>
-        Redis
-      </td>
-    </tr>
-    <tr align=center>
-      <td>
         <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width=100>
         <br>
         Prisma
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width=100>
-        <br>
-        Jest
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=100>
-        <br>
-        AWS
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=100>
-        <br>
-        Docker
-      </td>
+    </tr>
+    <tr align=center>
        <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=100>
         <br>
         Git
       </td>
-    </tr>
-    <tr align=center>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=100>
         <br>
         GitHub
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=100>
+        <br>
+        Visual Studio
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=100>
@@ -140,12 +121,3 @@
     </tr>
   </tbody>
 </table>
-
-  ##
-
-### 📊 My stats
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredBettecher&layout=compact&theme=transparent&card_width=500" alt="Languages" />
-  </a>
-</div>
